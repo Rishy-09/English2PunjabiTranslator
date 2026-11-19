@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this project in your work, please cite it as below."
+authors:
+  - family-names: "Chanana"
+    given-names: "Naman"
+title: "English-to-Punjabi Neural Machine Translator"
+version: 2.0
+date-released: 2026-11-19
+url: "https://github.com/Rishy-09/English2PunjabiTranslator"
+repository-code: "https://github.com/Rishy-09/English2PunjabiTranslator"
+license: MIT
+keywords:
+  - neural machine translation
+  - transformer
+  - PyTorch
+  - Punjabi
+  - natural language processing
