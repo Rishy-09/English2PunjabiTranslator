@@ -9,6 +9,38 @@ A character-level Transformer model built from scratch in PyTorch to translate E
 
 ![licensed-image](https://github.com/user-attachments/assets/6f1bb856-d1c9-4e92-bfe2-79554ccd2d0a)
 
+## Quick Start
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Rishy-09/English2PunjabiTranslator.git
+cd English2PunjabiTranslator
+```
+
+### 2. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Project Files
+
+- `Transformer-trainer-translator.ipynb` — complete training and inference notebook
+- `my-transformer-scripts/Transformer.py` — Transformer model implementation
+- `my-transformer-scripts/english_vocab.json` — English character vocabulary
+- `my-transformer-scripts/punjabi_vocab.json` — Punjabi character vocabulary
+- `Translator_model_weights/` — trained model checkpoints
+
+### 4. Run the Translator
+
+Open `Transformer-trainer-translator.ipynb` in **Jupyter Notebook, Google Colab, or Kaggle** and run the inference cells using the provided model weights.
+
+The original development notebook is also available on Kaggle:
+
+[View the notebook on Kaggle](https://www.kaggle.com/code/namanchanana/04-transformer-trainer-translator)
+
+> **Note:** This project was primarily developed and trained in the Kaggle environment. Depending on your local setup, paths to datasets and model checkpoints may need to be adjusted.
 
 ## 📜 Project Evolution: The Story
 
