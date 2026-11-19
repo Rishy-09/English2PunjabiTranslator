@@ -1,5 +1,10 @@
 # English-to-Punjabi Neural Machine Translator (V2)
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Transformer-EE4C2C?logo=pytorch)
+![NLP](https://img.shields.io/badge/Task-Neural%20Machine%20Translation-purple)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 A character-level Transformer model built from scratch in PyTorch to translate English to Punjabi. This project implements the architecture proposed in the paper *"Attention Is All You Need"* (Vaswani et al.), adapted to handle the specific linguistic challenges of the Punjabi language.
 
 ![licensed-image](https://github.com/user-attachments/assets/6f1bb856-d1c9-4e92-bfe2-79554ccd2d0a)
